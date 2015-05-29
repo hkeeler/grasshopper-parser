@@ -1,0 +1,1176 @@
+directions:
+  E: East
+  N: North
+  NE: Northeast
+  NW: Northwest
+  S: South
+  SE: Southeast
+  SW: Southwest
+  W: West
+states:
+  AA: Armed Forces Americas
+  AE: 'Armed Forces Europe, the '
+  AK: Alaska
+  AL: Alabama
+  AP: Armed Forces Pacific
+  AR: Arkansas
+  AS: American Samoa
+  AZ: Arizona
+  CA: California
+  CO: Colorado
+  CT: Connecticut
+  DC: District of Columbia
+  DE: Delaware
+  FL: Florida
+  FM: Federated States of Micronesia
+  GA: Georgia
+  GU: Guam
+  HI: Hawaii
+  IA: Iowa
+  ID: Idaho
+  IL: Illinois
+  IN: Indiana
+  KS: Kansas
+  KY: Kentucky
+  LA: Louisiana
+  MA: Massachusetts
+  MD: Maryland
+  ME: Maine
+  MH: Marshall Islands
+  MI: Michigan
+  MN: Minnesota
+  MO: Missouri
+  MP: Northern Mariana Islands
+  MS: Mississippi
+  MT: Montana
+  NC: North Carolina
+  ND: North Dakota
+  NE: Nebraska
+  NH: New Hampshire
+  NJ: New Jersey
+  NM: New Mexico
+  NV: Nevada
+  NY: New York
+  OH: Ohio
+  OK: Oklahoma
+  OR: Oregon
+  PA: Pennsylvania
+  PR: Puerto Rico
+  PW: Palau
+  RI: Rhode Island
+  SC: South Carolina
+  SD: South Dakota
+  TN: Tennessee
+  TX: Texas
+  UT: Utah
+  VA: Virginia
+  VI: Virgin Islands
+  VT: Vermont
+  WA: Washington
+  WI: Wisconsin
+  WV: West Virginia
+  WY: Wyoming
+street_suffixes:
+  ? ''
+  : alt:
+    - BAYOO
+    - BAYOU
+    name: BAYOU
+  ALY:
+    alt:
+    - ALLEE
+    - ALLEY
+    - ALLY
+    - ALY
+    name: ALLEY
+  ANX:
+    alt:
+    - ANEX
+    - ANNEX
+    - ANNX
+    - ANX
+    name: ANEX
+  ARC:
+    alt:
+    - ARC
+    - ARCADE
+    name: ARCADE
+  AVE:
+    alt:
+    - AV
+    - AVE
+    - AVEN
+    - AVENU
+    - AVENUE
+    - AVN
+    - AVNUE
+    name: AVENUE
+  BCH:
+    alt:
+    - BCH
+    - BEACH
+    name: BEACH
+  BG:
+    alt:
+    - BURG
+    name: BURG
+  BGS:
+    alt:
+    - BURGS
+    name: BURGS
+  BLF:
+    alt:
+    - BLF
+    - BLUF
+    - BLUFF
+    name: BLUFF
+  BLFS:
+    alt:
+    - BLUFFS
+    name: BLUFFS
+  BLVD:
+    alt:
+    - BLVD
+    - BOUL
+    - BOULEVARD
+    - BOULV
+    name: BOULEVARD
+  BND:
+    alt:
+    - BEND
+    - BND
+    name: BEND
+  BR:
+    alt:
+    - BR
+    - BRNCH
+    - BRANCH
+    name: BRANCH
+  BRG:
+    alt:
+    - BRDGE
+    - BRG
+    - BRIDGE
+    name: BRIDGE
+  BRK:
+    alt:
+    - BRK
+    - BROOK
+    name: BROOK
+  BRKS:
+    alt:
+    - BROOKS
+    name: BROOKS
+  BTM:
+    alt:
+    - BOT
+    - BTM
+    - BOTTM
+    - BOTTOM
+    name: BOTTOM
+  BYP:
+    alt:
+    - BYP
+    - BYPA
+    - BYPAS
+    - BYPASS
+    - BYPS
+    name: BYPASS
+  CIR:
+    alt:
+    - CIR
+    - CIRC
+    - CIRCL
+    - CIRCLE
+    - CRCL
+    - CRCLE
+    name: CIRCLE
+  CIRS:
+    alt:
+    - CIRCLES
+    name: CIRCLES
+  CLB:
+    alt:
+    - CLB
+    - CLUB
+    name: CLUB
+  CLF:
+    alt:
+    - CLF
+    - CLIFF
+    name: CLIFF
+  CLFS:
+    alt:
+    - CLFS
+    - CLIFFS
+    name: CLIFFS
+  CMN:
+    alt:
+    - COMMON
+    name: COMMON
+  CMNS:
+    alt:
+    - COMMONS
+    name: COMMONS
+  COR:
+    alt:
+    - COR
+    - CORNER
+    name: CORNER
+  CORS:
+    alt:
+    - CORNERS
+    - CORS
+    name: CORNERS
+  CP:
+    alt:
+    - CAMP
+    - CP
+    - CMP
+    name: CAMP
+  CPE:
+    alt:
+    - CAPE
+    - CPE
+    name: CAPE
+  CRES:
+    alt:
+    - CRESCENT
+    - CRES
+    - CRSENT
+    - CRSNT
+    name: CRESCENT
+  CRK:
+    alt:
+    - CREEK
+    - CRK
+    name: CREEK
+  CRSE:
+    alt:
+    - COURSE
+    - CRSE
+    name: COURSE
+  CRST:
+    alt:
+    - CREST
+    name: CREST
+  CSWY:
+    alt:
+    - CAUSEWAY
+    - CAUSWA
+    - CSWY
+    name: CAUSEWAY
+  CT:
+    alt:
+    - COURT
+    - CT
+    name: COURT
+  CTR:
+    alt:
+    - CEN
+    - CENT
+    - CENTER
+    - CENTR
+    - CENTRE
+    - CNTER
+    - CNTR
+    - CTR
+    name: CENTER
+  CTRS:
+    alt:
+    - CENTERS
+    name: CENTERS
+  CTS:
+    alt:
+    - COURTS
+    - CTS
+    name: COURTS
+  CURV:
+    alt:
+    - CURVE
+    name: CURVE
+  CV:
+    alt:
+    - COVE
+    - CV
+    name: COVE
+  CVS:
+    alt:
+    - COVES
+    name: COVES
+  CYN:
+    alt:
+    - CANYN
+    - CANYON
+    - CNYN
+    name: CANYON
+  DL:
+    alt:
+    - DALE
+    - DL
+    name: DALE
+  DM:
+    alt:
+    - DAM
+    - DM
+    name: DAM
+  DR:
+    alt:
+    - DR
+    - DRIV
+    - DRIVE
+    - DRV
+    name: DRIVE
+  DRS:
+    alt:
+    - DRIVES
+    name: DRIVES
+  DV:
+    alt:
+    - DIV
+    - DIVIDE
+    - DV
+    - DVD
+    name: DIVIDE
+  EST:
+    alt:
+    - EST
+    - ESTATE
+    name: ESTATE
+  ESTS:
+    alt:
+    - ESTATES
+    - ESTS
+    name: ESTATES
+  EXPY:
+    alt:
+    - EXP
+    - EXPR
+    - EXPRESS
+    - EXPRESSWAY
+    - EXPW
+    - EXPY
+    name: EXPRESSWAY
+  EXT:
+    alt:
+    - EXT
+    - EXTENSION
+    - EXTN
+    - EXTNSN
+    name: EXTENSION
+  EXTS:
+    alt:
+    - EXTS
+    name: EXTENSIONS
+  FALL:
+    alt:
+    - FALL
+    name: FALL
+  FLD:
+    alt:
+    - FIELD
+    - FLD
+    name: FIELD
+  FLDS:
+    alt:
+    - FIELDS
+    - FLDS
+    name: FIELDS
+  FLS:
+    alt:
+    - FALLS
+    - FLS
+    name: FALLS
+  FLT:
+    alt:
+    - FLAT
+    - FLT
+    name: FLAT
+  FLTS:
+    alt:
+    - FLATS
+    - FLTS
+    name: FLATS
+  FRD:
+    alt:
+    - FORD
+    - FRD
+    name: FORD
+  FRDS:
+    alt:
+    - FORDS
+    name: FORDS
+  FRG:
+    alt:
+    - FORG
+    - FORGE
+    - FRG
+    name: FORGE
+  FRGS:
+    alt:
+    - FORGES
+    name: FORGES
+  FRK:
+    alt:
+    - FORK
+    - FRK
+    name: FORK
+  FRKS:
+    alt:
+    - FORKS
+    - FRKS
+    name: FORKS
+  FRST:
+    alt:
+    - FOREST
+    - FORESTS
+    - FRST
+    name: FOREST
+  FRY:
+    alt:
+    - FERRY
+    - FRRY
+    - FRY
+    name: FERRY
+  FT:
+    alt:
+    - FORT
+    - FRT
+    - FT
+    name: FORT
+  FWY:
+    alt:
+    - FREEWAY
+    - FREEWY
+    - FRWAY
+    - FRWY
+    - FWY
+    name: FREEWAY
+  GDN:
+    alt:
+    - GARDEN
+    - GARDN
+    - GRDEN
+    - GRDN
+    name: GARDEN
+  GDNS:
+    alt:
+    - GARDENS
+    - GDNS
+    - GRDNS
+    name: GARDENS
+  GLN:
+    alt:
+    - GLEN
+    - GLN
+    name: GLEN
+  GLNS:
+    alt:
+    - GLENS
+    name: GLENS
+  GRN:
+    alt:
+    - GREEN
+    - GRN
+    name: GREEN
+  GRNS:
+    alt:
+    - GREENS
+    name: GREENS
+  GRV:
+    alt:
+    - GROV
+    - GROVE
+    - GRV
+    name: GROVE
+  GRVS:
+    alt:
+    - GROVES
+    name: GROVES
+  GTWY:
+    alt:
+    - GATEWAY
+    - GATEWY
+    - GATWAY
+    - GTWAY
+    - GTWY
+    name: GATEWAY
+  HBR:
+    alt:
+    - HARB
+    - HARBOR
+    - HARBR
+    - HBR
+    - HRBOR
+    name: HARBOR
+  HBRS:
+    alt:
+    - HARBORS
+    name: HARBORS
+  HL:
+    alt:
+    - HILL
+    - HL
+    name: HILL
+  HLS:
+    alt:
+    - HILLS
+    - HLS
+    name: HILLS
+  HOLW:
+    alt:
+    - HLLW
+    - HOLLOW
+    - HOLLOWS
+    - HOLW
+    - HOLWS
+    name: HOLLOW
+  HTS:
+    alt:
+    - HT
+    - HTS
+    name: HEIGHTS
+  HVN:
+    alt:
+    - HAVEN
+    - HVN
+    name: HAVEN
+  HWY:
+    alt:
+    - HIGHWAY
+    - HIGHWY
+    - HIWAY
+    - HIWY
+    - HWAY
+    - HWY
+    name: HIGHWAY
+  INLT:
+    alt:
+    - INLT
+    name: INLET
+  IS:
+    alt:
+    - IS
+    - ISLAND
+    - ISLND
+    name: ISLAND
+  ISLE:
+    alt:
+    - ISLE
+    - ISLES
+    name: ISLE
+  ISS:
+    alt:
+    - ISLANDS
+    - ISLNDS
+    - ISS
+    name: ISLANDS
+  JCT:
+    alt:
+    - JCT
+    - JCTION
+    - JCTN
+    - JUNCTION
+    - JUNCTN
+    - JUNCTON
+    name: JUNCTION
+  JCTS:
+    alt:
+    - JCTNS
+    - JCTS
+    - JUNCTIONS
+    name: JUNCTIONS
+  KNL:
+    alt:
+    - KNL
+    - KNOL
+    - KNOLL
+    name: KNOLL
+  KNLS:
+    alt:
+    - KNLS
+    - KNOLLS
+    name: KNOLLS
+  KY:
+    alt:
+    - KEY
+    - KY
+    name: KEY
+  KYS:
+    alt:
+    - KEYS
+    - KYS
+    name: KEYS
+  LAND:
+    alt:
+    - LAND
+    name: LAND
+  LCK:
+    alt:
+    - LCK
+    - LOCK
+    name: LOCK
+  LCKS:
+    alt:
+    - LCKS
+    - LOCKS
+    name: LOCKS
+  LDG:
+    alt:
+    - LDG
+    - LDGE
+    - LODG
+    - LODGE
+    name: LODGE
+  LF:
+    alt:
+    - LF
+    - LOAF
+    name: LOAF
+  LGT:
+    alt:
+    - LGT
+    - LIGHT
+    name: LIGHT
+  LGTS:
+    alt:
+    - LIGHTS
+    name: LIGHTS
+  LK:
+    alt:
+    - LK
+    - LAKE
+    name: LAKE
+  LKS:
+    alt:
+    - LKS
+    - LAKES
+    name: LAKES
+  LN:
+    alt:
+    - LANE
+    - LN
+    name: LANE
+  LNDG:
+    alt:
+    - LANDING
+    - LNDG
+    - LNDNG
+    name: LANDING
+  LOOP:
+    alt:
+    - LOOP
+    - LOOPS
+    name: LOOP
+  MALL:
+    alt:
+    - MALL
+    name: MALL
+  MDW:
+    alt:
+    - MEADOW
+    name: MEADOW
+  MDWS:
+    alt:
+    - MDW
+    - MDWS
+    - MEADOWS
+    - MEDOWS
+    name: MEADOWS
+  MEWS:
+    alt:
+    - MEWS
+    name: MEWS
+  ML:
+    alt:
+    - MILL
+    name: MILL
+  MLS:
+    alt:
+    - MILLS
+    name: MILLS
+  MNR:
+    alt:
+    - MNR
+    - MANOR
+    name: MANOR
+  MNRS:
+    alt:
+    - MANORS
+    - MNRS
+    name: MANORS
+  MSN:
+    alt:
+    - MISSN
+    - MSSN
+    name: MISSION
+  MT:
+    alt:
+    - MNT
+    - MT
+    - MOUNT
+    name: MOUNT
+  MTN:
+    alt:
+    - MNTAIN
+    - MNTN
+    - MOUNTAIN
+    - MOUNTIN
+    - MTIN
+    - MTN
+    name: MOUNTAIN
+  MTNS:
+    alt:
+    - MNTNS
+    - MOUNTAINS
+    name: MOUNTAINS
+  MTWY:
+    alt:
+    - MOTORWAY
+    name: MOTORWAY
+  NCK:
+    alt:
+    - NCK
+    - NECK
+    name: NECK
+  OPAS:
+    alt:
+    - OVERPASS
+    name: OVERPASS
+  ORCH:
+    alt:
+    - ORCH
+    - ORCHARD
+    - ORCHRD
+    name: ORCHARD
+  OVAL:
+    alt:
+    - OVAL
+    - OVL
+    name: OVAL
+  PARK:
+    alt:
+    - PARKS
+    name: PARKS
+  PASS:
+    alt:
+    - PASS
+    name: PASS
+  PATH:
+    alt:
+    - PATH
+    - PATHS
+    name: PATH
+  PIKE:
+    alt:
+    - PIKE
+    - PIKES
+    name: PIKE
+  PKWY:
+    alt:
+    - PARKWAYS
+    - PKWYS
+    name: PARKWAYS
+  PL:
+    alt:
+    - PL
+    name: PLACE
+  PLN:
+    alt:
+    - PLAIN
+    - PLN
+    name: PLAIN
+  PLNS:
+    alt:
+    - PLAINS
+    - PLNS
+    name: PLAINS
+  PLZ:
+    alt:
+    - PLAZA
+    - PLZ
+    - PLZA
+    name: PLAZA
+  PNE:
+    alt:
+    - PINE
+    name: PINE
+  PNES:
+    alt:
+    - PINES
+    - PNES
+    name: PINES
+  PR:
+    alt:
+    - PR
+    - PRAIRIE
+    - PRR
+    name: PRAIRIE
+  PRT:
+    alt:
+    - PORT
+    - PRT
+    name: PORT
+  PRTS:
+    alt:
+    - PORTS
+    - PRTS
+    name: PORTS
+  PSGE:
+    alt:
+    - PASSAGE
+    name: PASSAGE
+  PT:
+    alt:
+    - POINT
+    - PT
+    name: POINT
+  PTS:
+    alt:
+    - POINTS
+    - PTS
+    name: POINTS
+  Postal Service:
+    alt:
+    - Commonly
+    name: Primary
+  RADL:
+    alt:
+    - RAD
+    - RADIAL
+    - RADIEL
+    - RADL
+    name: RADIAL
+  RAMP:
+    alt:
+    - RAMP
+    name: RAMP
+  RD:
+    alt:
+    - RD
+    - ROAD
+    name: ROAD
+  RDG:
+    alt:
+    - RDG
+    - RDGE
+    - RIDGE
+    name: RIDGE
+  RDGS:
+    alt:
+    - RDGS
+    - RIDGES
+    name: RIDGES
+  RDS:
+    alt:
+    - ROADS
+    - RDS
+    name: ROADS
+  RIV:
+    alt:
+    - RIV
+    - RIVER
+    - RVR
+    - RIVR
+    name: RIVER
+  RNCH:
+    alt:
+    - RANCH
+    - RANCHES
+    - RNCH
+    - RNCHS
+    name: RANCH
+  ROW:
+    alt:
+    - ROW
+    name: ROW
+  RPD:
+    alt:
+    - RAPID
+    - RPD
+    name: RAPID
+  RPDS:
+    alt:
+    - RAPIDS
+    - RPDS
+    name: RAPIDS
+  RST:
+    alt:
+    - REST
+    - RST
+    name: REST
+  RTE:
+    alt:
+    - ROUTE
+    name: ROUTE
+  RUE:
+    alt:
+    - RUE
+    name: RUE
+  RUN:
+    alt:
+    - RUN
+    name: RUN
+  SHL:
+    alt:
+    - SHL
+    - SHOAL
+    name: SHOAL
+  SHLS:
+    alt:
+    - SHLS
+    - SHOALS
+    name: SHOALS
+  SHR:
+    alt:
+    - SHOAR
+    - SHORE
+    - SHR
+    name: SHORE
+  SHRS:
+    alt:
+    - SHOARS
+    - SHORES
+    - SHRS
+    name: SHORES
+  SKWY:
+    alt:
+    - SKYWAY
+    name: SKYWAY
+  SMT:
+    alt:
+    - SMT
+    - SUMIT
+    - SUMITT
+    - SUMMIT
+    name: SUMMIT
+  SPG:
+    alt:
+    - SPG
+    - SPNG
+    - SPRING
+    - SPRNG
+    name: SPRING
+  SPGS:
+    alt:
+    - SPGS
+    - SPNGS
+    - SPRINGS
+    - SPRNGS
+    name: SPRINGS
+  SPUR:
+    alt:
+    - SPURS
+    name: SPURS
+  SQ:
+    alt:
+    - SQ
+    - SQR
+    - SQRE
+    - SQU
+    - SQUARE
+    name: SQUARE
+  SQS:
+    alt:
+    - SQRS
+    - SQUARES
+    name: SQUARES
+  ST:
+    alt:
+    - STREET
+    - STRT
+    - ST
+    - STR
+    name: STREET
+  STA:
+    alt:
+    - STA
+    - STATION
+    - STATN
+    - STN
+    name: STATION
+  STRA:
+    alt:
+    - STRA
+    - STRAV
+    - STRAVEN
+    - STRAVENUE
+    - STRAVN
+    - STRVN
+    - STRVNUE
+    name: STRAVENUE
+  STRM:
+    alt:
+    - STREAM
+    - STREME
+    - STRM
+    name: STREAM
+  STS:
+    alt:
+    - STREETS
+    name: STREETS
+  TER:
+    alt:
+    - TER
+    - TERR
+    - TERRACE
+    name: TERRACE
+  TPKE:
+    alt:
+    - TRNPK
+    - TURNPIKE
+    - TURNPK
+    name: TURNPIKE
+  TRAK:
+    alt:
+    - TRACK
+    - TRACKS
+    - TRAK
+    - TRK
+    - TRKS
+    name: TRACK
+  TRCE:
+    alt:
+    - TRACE
+    - TRACES
+    - TRCE
+    name: TRACE
+  TRFY:
+    alt:
+    - TRAFFICWAY
+    name: TRAFFICWAY
+  TRL:
+    alt:
+    - TRAIL
+    - TRAILS
+    - TRL
+    - TRLS
+    name: TRAIL
+  TRLR:
+    alt:
+    - TRAILER
+    - TRLR
+    - TRLRS
+    name: TRAILER
+  TRWY:
+    alt:
+    - THROUGHWAY
+    name: THROUGHWAY
+  TUNL:
+    alt:
+    - TUNEL
+    - TUNL
+    - TUNLS
+    - TUNNEL
+    - TUNNELS
+    - TUNNL
+    name: TUNNEL
+  UN:
+    alt:
+    - UN
+    - UNION
+    name: UNION
+  UNS:
+    alt:
+    - UNIONS
+    name: UNIONS
+  UPAS:
+    alt:
+    - UNDERPASS
+    name: UNDERPASS
+  VIA:
+    alt:
+    - VDCT
+    - VIA
+    - VIADCT
+    - VIADUCT
+    name: VIADUCT
+  VIS:
+    alt:
+    - VIS
+    - VIST
+    - VISTA
+    - VST
+    - VSTA
+    name: VISTA
+  VL:
+    alt:
+    - VILLE
+    - VL
+    name: VILLE
+  VLG:
+    alt:
+    - VILL
+    - VILLAG
+    - VILLAGE
+    - VILLG
+    - VILLIAGE
+    - VLG
+    name: VILLAGE
+  VLGS:
+    alt:
+    - VILLAGES
+    - VLGS
+    name: VILLAGES
+  VLY:
+    alt:
+    - VALLEY
+    - VALLY
+    - VLLY
+    - VLY
+    name: VALLEY
+  VLYS:
+    alt:
+    - VALLEYS
+    - VLYS
+    name: VALLEYS
+  VW:
+    alt:
+    - VIEW
+    - VW
+    name: VIEW
+  VWS:
+    alt:
+    - VIEWS
+    - VWS
+    name: VIEWS
+  WALK:
+    alt:
+    - WALKS
+    name: WALKS
+  WALL:
+    alt:
+    - WALL
+    name: WALL
+  WAY:
+    alt:
+    - WY
+    - WAY
+    name: WAY
+  WAYS:
+    alt:
+    - WAYS
+    name: WAYS
+  WL:
+    alt:
+    - WELL
+    name: WELL
+  WLS:
+    alt:
+    - WELLS
+    - WLS
+    name: WELLS
+  XING:
+    alt:
+    - CROSSING
+    - CRSSNG
+    - XING
+    name: CROSSING
+  XRD:
+    alt:
+    - CROSSROAD
+    name: CROSSROAD
+  XRDS:
+    alt:
+    - CROSSROADS
+    name: CROSSROADS
